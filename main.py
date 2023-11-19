@@ -77,7 +77,7 @@ class ActivationHandler:
 
 
 if __name__ == "__main__":
-    token = 'eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjMxNTY5NTUsImlhdCI6MTY5MTYyMDk1NSwicmF5IjoiM2MxNjQ1ZjM0YmQyNzMyOWQwNzBmNTM1NmY0ZDNlZDkiLCJzdWIiOjU1MjM5N30.ZoswsLS2_hLkLpb6ou94a6QwS_2kCUnRhOE6pWzWltlv8ZH3L-robaPOiuZSE36IDzlwvPMeQwNwe_JmwvtqGbevykZxeUwCYeWEsCn1renTuLjY1ilqRdK1FpH61WED4Jkvil9tTdd0SeOesymiwb5n2Q_XAC7myJNOle3Aryq5gdSMu_ifjx3Bp3KMWAO6OmklGrzOGznvQ5CT_4A6v6K0m42NLpb9CxX1MQzn26KlIpSZdvZuCGXD6PK9F6KsotFe3io5tqpbD33CvnZtdlz9Ezvj_8UGVddO7PMZYpOdteDs_SfCTEyFFNF59iMn1-ZX9o1mdr-k6l5KzcofCg'
+    token = 'your_token_here'
     country = 'butan'
     operator = 'any'
     product = 'telegram'
