@@ -9,7 +9,7 @@ Para utilizar este handler, siga estas etapas:
 1. Clone este repositório:
 
     ```bash
-    git clone https://github.com/darkmathew/nome-do-repositorio.git
+    git clone https://github.com/darkmathew/Api5sim.git
     ```
 
 2. Instale as dependências necessárias:
